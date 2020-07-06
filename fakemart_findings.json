@@ -37,6 +37,7 @@
           "methodName": "public void onReceive(Context context, Intent intent)",
           "className": "com.android.blackmarket.SmsReceiver",
           "lineNo": 39,
+          "decompiledSourceLineNo": 32,
           "ID": 1
         },
         {
@@ -44,6 +45,7 @@
           "methodName": "public void onReceive(Context context, Intent intent)",
           "className": "com.android.blackmarket.SmsReceiver",
           "lineNo": 44,
+          "decompiledSourceLineNo": 33,
           "ID": 2
         },
         {
@@ -60,7 +62,8 @@
         "lifecycle": true
       },
       "ID": 1,
-      "description": "This malicious flow reads incoming SMSs and posts them to a URL."
+      "description": "This malicious flow reads incoming SMSs and posts them to a URL.",
+      "isNegative": false
     },
     {
       "source": {
@@ -97,6 +100,7 @@
           "methodName": "public void onReceive(Context context, Intent intent)",
           "className": "com.android.blackmarket.SmsReceiver",
           "lineNo": 57,
+          "decompiledSourceLineNo": 42,
           "ID": 2
         },
         {
@@ -104,6 +108,7 @@
           "methodName": "public void onReceive(Context context, Intent intent)",
           "className": "com.android.blackmarket.SmsReceiver",
           "lineNo": 59,
+          "decompiledSourceLineNo": 43,
           "ID": 2
         },
         {
@@ -120,7 +125,8 @@
         "lifecycle": true
       },
       "ID": 2,
-      "description": "This malicious flow reads incoming SMSs and posts them to a URL."
+      "description": "This malicious flow reads incoming SMSs and posts them to a URL.",
+      "isNegative": false
     }
   ]
 }
